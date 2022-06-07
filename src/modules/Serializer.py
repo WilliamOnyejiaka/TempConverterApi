@@ -1,5 +1,5 @@
 
-class SerializeData:
+class Serializer:
 
     def __init__(self,needed_attributes):
         self.needed_attributes = needed_attributes
